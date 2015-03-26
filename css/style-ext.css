@@ -10,7 +10,7 @@
 	position: relative;
 	text-align: center;
 	margin: 5px 20px 27px;
-	line-height: 100px;
+	line-height: 110px;
 }
 
 .easyPieChart canvas {
@@ -23,14 +23,14 @@
 	position: absolute;
 	top: 80px;
 	left: 0;
-	width: 100px;
+	width: 110px;
 	text-align: center;
 }
 
 .pie-chart{
 	float: left;
 	height: 130px;
-	width: 100px;
+	width: 110px;
 }
 
 .pie-chart:after {
