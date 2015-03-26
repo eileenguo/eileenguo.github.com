@@ -21,10 +21,11 @@
 
 .easyPieChart .chart-desc {
 	position: absolute;
-	top: 80px;
+	top: 110px;
 	left: 0;
 	width: 110px;
 	text-align: center;
+	line-height: 60px;
 }
 
 .pie-chart{
